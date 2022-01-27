@@ -2,6 +2,8 @@
 embeddingswsd
 =============
 
+![Summary](https://user-images.githubusercontent.com/20538437/151447872-c8bf2348-c44c-4f30-afc5-5a57d4c2ac8a.png)
+
 ## Contents
  * `annotations.csv`: annotations that disambiguate homonyms in manually labeled abstracts
  * `analyzevectors/`: R scripts to train and evaluate classifiers in abstract-specific vector sets
