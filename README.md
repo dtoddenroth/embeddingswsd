@@ -2,7 +2,17 @@
 embeddingswsd
 =============
 
+These files accompany an evaluation of [spaCy](https://spacy.io) 
+/ [scispaCy](https://allenai.github.io/scispacy) 
+word vectors (embeddings) 
+for biomedical word sense disambiguation. 
+Assessments compare the performance of linear 
+classifiers trained in manually labeled homonyms 
+in [Pubmed](pubmed.ncbi.nlm.nih.gov/) abstracts
+as well as in a subset of the [MSH WSD](https://lhncbc.nlm.nih.gov/ii/areas/WSD/collaboration.html) dataset. 
+
 ![thumbnail](https://user-images.githubusercontent.com/20538437/151448595-71390648-9f25-4ccc-835d-efa2f57dfd15.png)
+
 
 ## Contents
  * `annotations.csv`: annotations that disambiguate homonyms in manually labeled abstracts
