@@ -2,7 +2,7 @@
 embeddingswsd
 =============
 
-![Summary](https://user-images.githubusercontent.com/20538437/151447872-c8bf2348-c44c-4f30-afc5-5a57d4c2ac8a.png =x250)
+![thumbnail](https://user-images.githubusercontent.com/20538437/151448595-71390648-9f25-4ccc-835d-efa2f57dfd15.png)
 
 ## Contents
  * `annotations.csv`: annotations that disambiguate homonyms in manually labeled abstracts
