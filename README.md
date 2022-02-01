@@ -19,7 +19,7 @@ as well as in a subset of the [MSH WSD](https://lhncbc.nlm.nih.gov/ii/areas/WSD/
  * `annotations.csv`: annotations that disambiguate homonyms in manually labeled abstracts
  * `analyzevectors/`: [R scripts](https://www.r-project.org/) to train and evaluate classifiers in abstract-specific vector sets
  * `outputs/`: graphical and tabular results in .pdf and .csv format
- * `preparevectors/`: [Python scripts](https://www.python.org/) that compute word vectors from abstracts and annotations
+ * `preparevectors/`: [Python scripts](https://www.python.org/) that compute word vectors from abstracts
  * `vectorsets/`: abstract-specific vector sets for different language models
 
 ## Setup and installation
