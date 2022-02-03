@@ -2,6 +2,8 @@
 embeddingswsd
 =============
 
+![License](https://img.shields.io/github/license/dtoddenroth/embeddingswsd)
+
 The files in this repository accompany 
 an evaluation of [spaCy](https://spacy.io) 
 / [scispaCy](https://allenai.github.io/scispacy) 
