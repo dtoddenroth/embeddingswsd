@@ -13,9 +13,10 @@ Assessments compare the performance of linear
 classifiers trained in manually labeled homonyms 
 in [Pubmed](https://pubmed.ncbi.nlm.nih.gov/) abstracts
 as well as in a subset of the [MSH WSD](https://lhncbc.nlm.nih.gov/ii/areas/WSD/collaboration.html) dataset. 
+Findings have been [presented](https://pubmed.ncbi.nlm.nih.gov/35575844/) in May 2022
+at the [Healthcare of the Future conference](https://healthcareofthefuture.ch/). 
 
 ![thumbnail](https://user-images.githubusercontent.com/20538437/151448595-71390648-9f25-4ccc-835d-efa2f57dfd15.png)
-
 
 ## Contents
  * `annotations.csv`: annotations that disambiguate homonyms in manually labeled abstracts
